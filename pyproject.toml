@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_m3net"
+description = "ComfyUI for [a/M3Net](https://github.com/I2-Multimedia-Lab/M3Net)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_M3Net"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_M3Net"
+Icon = ""
