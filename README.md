@@ -20,7 +20,7 @@ https://github.com/I2-Multimedia-Lab/M3Net
 Pre-trained weights: [M<sup>3</sup>Net-R](https://pan.baidu.com/s/15vG8N8y-BFv60O_j3C_Uhw) [m789], [M<sup>3</sup>Net-S](https://pan.baidu.com/s/1ZEXR1QD2AMWQfBhxp5f8VA) [4wnw]
   将权重下载到'/custom_nodes/ComfyUI_M3Net/weights'  
   我自己也开源了一个权重，链接：https://pan.baidu.com/s/1RxVNP2GHgrCEbM5fKj4ZnQ?pwd=vi01 
-提取码：vi01，一个一般的微调版本，还有更强的版本，在电商场景上应该比很多模型都强了，==
+提取码：vi01，一个一般的训练版本，还有更强的版本，在电商场景上应该比很多模型都强了，==
 
 - 节点：
 
