@@ -19,7 +19,8 @@ https://github.com/I2-Multimedia-Lab/M3Net
 - Pre-calculated saliency maps: M3Net-R [uqsr], M3Net-S [6jyh]
 Pre-trained weights: M3Net-R [m789], M3Net-S [4wnw]
   将权重下载到'/custom_nodes/ComfyUI_M3Net/weights'  
-  我自己也开源了一个权重，一个很一般的微调版本，在电商场景上应该比很多模型都强了，==
+  我自己也开源了一个权重，链接：https://pan.baidu.com/s/1RxVNP2GHgrCEbM5fKj4ZnQ?pwd=vi01 
+提取码：vi01，一个一般的微调版本，还有更强的版本，在电商场景上应该比很多模型都强了，==
 
 - 节点：
 
